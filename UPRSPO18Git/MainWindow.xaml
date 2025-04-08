@@ -12,7 +12,6 @@
                 <DataGridTextColumn Header="Id" Width="auto"/>
                 <DataGridTextColumn Header="Name" Width="*"/>
                 <DataGridTextColumn Header="CountOfStars" Width="auto"/>
-                <DataGridTextColumn Header="Name" Width="auto"/>
             </DataGrid.Columns>
         </DataGrid>
     </Grid>
